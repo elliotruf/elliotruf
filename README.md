@@ -1,7 +1,4 @@
-- Elliot Ruf, BSc Biomedical Sciences at Cardiff University (ongoing)
-- Seeking MSc program in Bioinformatics, Computer Biology, or similar fields, for 2025/2026 academic year.
-- Research interests include: Human Male/Female Sex differences, Hormone Replacement Therapy (HRT), Renal Disease (CKD/AKI) 
-- Other academic interests: Communications between Clinic, Patient, and Research in Healthcare
+- Elliot Ruf, MSc Applied Bioinformatics & Genomics at Cardiff University
   
 <!---
 elliotruf/elliotruf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
